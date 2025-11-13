@@ -32,10 +32,6 @@ Bachelors-blitz-auction-system/
 │ └── auction_sync.js
 ├── data/
 │ └── auction_data.xlsx
-├── docs/
-│ ├── system_flow.png
-│ ├── auction_dashboard.png
-│ └── formulas_reference.md
 └── README.md
 ```
 
