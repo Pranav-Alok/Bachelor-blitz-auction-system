@@ -31,8 +31,7 @@ Bachelors-blitz-auction-system/
 ├── appsscript/
 │ └── auction_sync.js
 ├── data/
-│ ├── players_sample.csv
-│ └── teams_sample.csv
+│ └── auction_data.xlsx
 ├── docs/
 │ ├── system_flow.png
 │ ├── auction_dashboard.png
